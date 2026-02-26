@@ -1,6 +1,5 @@
 require:
   - rubocop-rspec
-   - ./malicious_cop.rb
 
 AllCops:
   TargetRubyVersion: 3.1.2
